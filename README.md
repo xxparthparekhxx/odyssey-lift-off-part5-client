@@ -1,1 +1,1 @@
-(Deploy Link)[https://spacecatsuru.herokuapp.com/]
+[Deploy Link](https://spacecatsuru.herokuapp.com)
